@@ -4,7 +4,7 @@ $(function() {
 	workLoad();
 	$("header h1").fitText(1.1, { minFontSize: '20px', maxFontSize: '60px' });
 	$("header p").fitText(1.2, { minFontSize: '20px', maxFontSize: '40px' });
-	$("h4").fitText(1.1, { minFontSize: '20px', maxFontSize: '45px' });
+	$("h4").fitText(1.1, { minFontSize: '20px', maxFontSize: '40px' });
 
 });
 
