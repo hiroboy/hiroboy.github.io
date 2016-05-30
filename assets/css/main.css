@@ -645,7 +645,7 @@ th {
 /** THEME
 ===================================*/
 .bx-wrapper .bx-viewport {
-  width: 80% !important;
+  width: 60% !important;
   margin: 0 auto;
   /*fix other elements on the page moving (on Chrome)*/
   -webkit-transform: translatez(0);
@@ -1051,7 +1051,11 @@ footer {
       float: none;
       width: 80%; }
     .about2 img {
-      float: none; } }
+      float: none; }
+
+  .bx-wrapper .bx-viewport {
+    width: 80% !important;
+    margin: 0 auto; } }
 .blurb {
   margin: 0 auto;
   padding: 0 20px;
