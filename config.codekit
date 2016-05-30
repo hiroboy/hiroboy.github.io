@@ -226,6 +226,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/_site\/assets\/css\/1-tools\/jquery.bxslider.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/1-tools\/jquery.bxslider.scss",
+		"outputAbbreviatedPath": "\/_site\/assets\/css\/css\/jquery.bxslider.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_site\/assets\/css\/1-tools\/spinner.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -283,35 +299,57 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/_site\/assets\/img\/beach.jpg": {
-		"fileType": 16384,
+	"\/_site\/assets\/img\/controls.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 237588,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/beach.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/beach.jpg",
+		"initialSize": 2806,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/controls.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/controls.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/beach_footer.jpg": {
+	"\/_site\/assets\/img\/pic1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 604270,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/beach_footer.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/beach_footer.jpg",
+		"initialSize": 1.43868e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/pic1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/pic1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/hiro3.jpg": {
+	"\/_site\/assets\/img\/pic2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 35055,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/hiro3.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/hiro3.jpg",
+		"initialSize": 2.34363e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/pic2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/pic2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/pic3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31726e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/pic3.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/pic3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/pic4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.44335e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/pic4.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/pic4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -527,20 +565,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 68347,
+		"initialSize": 257240,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-7\/thumb.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-7\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/work\/proj-8\/stripes-co-NickZoutendijk.jpg": {
+	"\/_site\/assets\/img\/work\/proj-8\/shimizuya.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 370901,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-8\/stripes-co-NickZoutendijk.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-8\/stripes-co-NickZoutendijk.jpg",
+		"initialSize": 158772,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-8\/shimizuya.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-8\/shimizuya.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -549,7 +587,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 57747,
+		"initialSize": 140958,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-8\/thumb.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/proj-8\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -567,23 +605,23 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/assets\/js\/jquery.bxslider.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/js\/jquery.bxslider.min.js",
+		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/jquery.bxslider.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/assets\/js\/min\/function-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/function-min.js",
 		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/function-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/assets\/js\/min\/jquery.bxslider.min-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/jquery.bxslider.min-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/jquery.bxslider.min-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -607,29 +645,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/work\/proj-2.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/work\/proj-2.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/work\/proj-3.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/work\/proj-3.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/work\/proj-4.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/work\/proj-4.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -652,11 +672,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/work\/proj-7.html": {
+	"\/_site\/work\/proj-8.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/work\/proj-7.html",
+		"inputAbbreviatedPath": "\/_site\/work\/proj-8.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1989,6 +2009,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/css\/1-tools\/jquery.bxslider.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/1-tools\/jquery.bxslider.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/jquery.bxslider.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/css\/1-tools\/spinner.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2206,35 +2242,57 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/img\/beach.jpg": {
-		"fileType": 16384,
+	"\/assets\/img\/controls.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 237588,
-		"inputAbbreviatedPath": "\/assets\/img\/beach.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/beach.jpg",
+		"initialSize": 2806,
+		"inputAbbreviatedPath": "\/assets\/img\/controls.png",
+		"outputAbbreviatedPath": "\/assets\/img\/controls.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/beach_footer.jpg": {
+	"\/assets\/img\/pic1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 604270,
-		"inputAbbreviatedPath": "\/assets\/img\/beach_footer.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/beach_footer.jpg",
+		"initialSize": 1.43868e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/pic1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/pic1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/hiro3.jpg": {
+	"\/assets\/img\/pic2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 35055,
-		"inputAbbreviatedPath": "\/assets\/img\/hiro3.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/hiro3.jpg",
+		"initialSize": 2.34363e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/pic2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/pic2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/pic3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31726e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/pic3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/pic3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/pic4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.44335e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/pic4.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/pic4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2457,13 +2515,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/work\/proj-8\/stripes-co-NickZoutendijk.jpg": {
+	"\/assets\/img\/work\/proj-8\/shimizuya.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 370901,
-		"inputAbbreviatedPath": "\/assets\/img\/work\/proj-8\/stripes-co-NickZoutendijk.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/work\/proj-8\/stripes-co-NickZoutendijk.jpg",
+		"initialSize": 158772,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/proj-8\/shimizuya.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/proj-8\/shimizuya.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2472,7 +2530,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 57747,
+		"initialSize": 140958,
 		"inputAbbreviatedPath": "\/assets\/img\/work\/proj-8\/thumb.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/work\/proj-8\/thumb.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2490,23 +2548,23 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/assets\/js\/jquery.bxslider.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.bxslider.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.bxslider.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/assets\/js\/min\/function-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/min\/function-min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/function-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/min\/jquery.bxslider.min-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/min\/jquery.bxslider.min-min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/jquery.bxslider.min-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2580,6 +2638,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/work\/proj-7.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/proj-8.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/proj-8.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

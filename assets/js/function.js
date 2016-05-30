@@ -55,6 +55,14 @@ function  workLoad() {
 
 }
 
+/* bxslider */
+
+$(document).ready(function(){
+  $('.bxslider').bxSlider({
+		auto:true,
+	});
+});
+
 
 /*
 * FitText.js 1.2
