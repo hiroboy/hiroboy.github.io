@@ -922,11 +922,11 @@ header {
   background: #84ccc9;
   background-size: cover; }
   header nav {
-    padding: 30px 30px 0 0;
+    padding: 30px 80px 0 0;
     text-align: center; }
     header nav a {
       display: inline-block;
-      margin-left: 20px;
+      margin-left: 70px;
       color: white;
       text-shadow: 2px 2px #6b3906; }
       header nav a:hover {
@@ -939,7 +939,7 @@ header {
     letter-spacing: 0em;
     text-align: center;
     line-height: 1;
-    padding-top: 40px;
+    padding-top: 30px;
     margin: 0 auto 10px; }
 
 .header-bar {
@@ -952,8 +952,8 @@ h1 {
   letter-spacing: 0.1em;
   color: white;
   text-shadow: 3.5px 3.5px #6b3906, 3px 3px #6b3906, 2.5px 2.5px #6b3906, 2px 2px #6b3906, 1.5px 1.5px #6b3906, 1px 1px #6b3906;
-  padding-bottom: 60px;
-  padding-top: 5px; }
+  padding-bottom: 50px;
+  padding-top: 20px; }
 
 .kicker {
   text-align: center;
@@ -961,8 +961,11 @@ h1 {
   color: white; }
 
 @media (max-width: 640px) {
-  header nav a {
-    font-size: 14px; }
+  header nav {
+    padding-right: 30px; }
+    header nav a {
+      font-size: 14px;
+      margin-left: 20px; }
   header p {
     padding-top: 10px;
     padding-bottom: 0; }
